@@ -40,7 +40,7 @@
 
 		<link rel="stylesheet" href="atividade.css">
 
-		<title>Portal Z - ERP</title>
+		<title>TechRat</title>
 		
 		<script type="text/javascript" src="https://www.google.com/jsapi"></script>
 		
